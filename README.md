@@ -1,1 +1,3 @@
-# .gitignoredda
+# .gitignoredda tt
+yhbcvb
+bb
